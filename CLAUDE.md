@@ -169,3 +169,4 @@ These are patterns that should be flagged during code review:
 - Structure: `describe`/`it` blocks with Jest matchers
 - Pure utility functions should have tests; components don't require tests
 - Reference files: `tests/auth.test.ts`, `tests/utils.test.ts`
+
